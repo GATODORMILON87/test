@@ -1,2 +1,2 @@
 # test
-like atest
+like a test
